@@ -73,3 +73,4 @@ you have built the application you can flash it by running:
 ```shell
 west flash
 ```
+KAKAKAKA
