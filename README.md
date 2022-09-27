@@ -48,5 +48,5 @@ base = zephyr
 ```
 Now we just have to let `ninja` know the location of `west`.
 We can do that by setting the `WEST_DIR` environment variable, so that it points to [zephyrproject/.west/west]
-- 
+
 
