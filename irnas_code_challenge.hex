@@ -1,0 +1,1 @@
+This program toggles the red Led diode at the realease of the SW1 button. The program also allows the board to function as a BLE peripheral device named "IRNASWB55", with a custom service and a characteristic that allows for the current state of the led to be read.
