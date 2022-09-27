@@ -1,7 +1,6 @@
 # Irnas Coding Challenge
 
-This repository contains a Zephyr coding challenge application that extends the example application repository ([link][example]).
-
+This repository contains a Zephyr coding challenge application that extends the example application repository ([link](https://github.com/zephyrproject-rtos/example-application)).
 This app demonstrates the use of the bluetooth low-power technology, ment for the STM32WB55rg Nucleo board.
 
 The main source file is contained in the app folder.
